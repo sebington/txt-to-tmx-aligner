@@ -1,4 +1,4 @@
-To use this tool, you need to put is in a folder with two .txt files containing text, one being the translation of the other.
+To use this tool, you need to put it in a folder, together with two .txt files containing text, one being the translation of the other.
 This tool can be run using uv "uv run txt_tmx_aligner.py".
 1. Specify your source and target languages (e.g. 'en' and 'fr')
 2. Specify your file names (e.g. source-en.txt and target-fr.txt)
