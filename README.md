@@ -1,6 +1,6 @@
 To use this tool you need to put it in a folder together with two parallel texts (one is the translation of the other) in .txt format.
 
-The easiest way to use this tool is by using [uv](https://docs.astral.sh/uv/): `uv run txt_tmx_aligner.py`
+The easiest way to use this tool is to run it with [uv](https://docs.astral.sh/uv/): `uv run txt_tmx_aligner.py`
 
 1. Specify your source and target languages (e.g. 'en' and 'fr')
 2. Specify your file names (e.g. source-en.txt and target-fr.txt)
